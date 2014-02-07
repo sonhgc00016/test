@@ -1,1 +1,3 @@
 This is file a.txt
+This is example of git
+This is funny file
